@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottom_row_story.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tween 34 instance 10000" x="5" y="1127" width="2124" height="296"/>
+	<SubTexture name="Tween 40 instance 10000" x="5" y="5" width="3140" height="1117"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UI concepts.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tween 26 instance 10000" x="5" y="5" width="569" height="231"/>
+	<SubTexture name="Tween 26 instance 10001" x="5" y="241" width="569" height="229" frameX="0" frameY="0" frameWidth="569" frameHeight="231"/>
+	<SubTexture name="Tween 26 instance 10002" x="5" y="475" width="569" height="229" frameX="0" frameY="-2" frameWidth="569" frameHeight="231"/>
+</TextureAtlas>
